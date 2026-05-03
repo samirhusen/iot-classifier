@@ -104,7 +104,7 @@ iot-classifier/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/iot-classifier.git
+git clone https://github.com/samirhusen/iot-classifier.git
 cd iot-classifier
 ```
 
